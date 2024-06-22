@@ -1,0 +1,19 @@
+{
+    "name": "RemixDoNotGetExperience",
+    "version": "1.0.0",
+    "description": "World of Warcraft addon prevents the looting of REMIX bonus experience items from bosses in dungeons and raids",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/chernuw/RemixDoNotGetExperience.git"
+    },
+    "scripts": {
+      "release:major": "npm version major && git push --follow-tags",
+      "release:minor": "npm version minor && git push --follow-tags",
+      "release:patch": "npm version patch && git push --follow-tags"
+    },
+    "author": "chernuw",
+    "license": "MIT",
+    "homepage": "https://github.com/chernuw/RemixDoNotGetExperience",
+    "private": true
+  }
+  
