@@ -1,0 +1,6 @@
+## Interface: 1
+## Title: No Loot Experience
+## Author: CJ Miller (cjm721)
+## Version: 1.0.1
+
+NoLootExperience.lua
