@@ -1,2 +1,2 @@
-# RemixDoNotGetExperience
+# Remix-No-XP-loot
 World of Warcraft addon prevents the looting of REMIX bonus experience items from bosses in dungeons and raids
