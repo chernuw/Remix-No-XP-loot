@@ -1,4 +1,4 @@
-## Interface: 100207
+## Interface: 100207, 110000
 ## X-Curse-Project-ID: 1045105
 ## X-Wago-ID: EGPX7kG1
 ## Title: Remix: No XP Loot
