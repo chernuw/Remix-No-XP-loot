@@ -1,0 +1,10 @@
+## Interface: 100207
+## X-Curse-Project-ID: 1045105
+## Title: Remix: No XP Loot
+## URL: https://www.curseforge.com/wow/addons/remix-no-xp-loot
+## Author: chernuw
+## Version: @project-version@
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+RemixNoXpLoot.lua
