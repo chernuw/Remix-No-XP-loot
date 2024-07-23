@@ -6,5 +6,6 @@
 ## Version: @project-version@
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
+## IconTexture: Interface\AddOns\RemixNoXpLoot\Icon.png
 
 RemixNoXpLoot.lua
