@@ -11,6 +11,7 @@ jobs:
 
     env:
       CF_API_KEY: ${{ secrets.CF_API_KEY }}
+      WAGO_API_TOKEN: ${{ secrets.WAGO_API_TOKEN }}
       GITHUB_OAUTH: ${{ secrets.HUB_TOKEN }}
 
     steps:
@@ -22,4 +23,4 @@ jobs:
       - name: Release for Modern
         uses: BigWigsMods/packager@v2
         with:
-          args: -m .pkgmeta -w 0 -a 0
+          args: -m .pkgmeta -w 0
